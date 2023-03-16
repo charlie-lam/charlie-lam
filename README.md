@@ -1,10 +1,9 @@
 <div align="center">
   <h1> Charles Lambert </h1>
-  <div style="display:flex;  justify-content: center; align-content: center;">
-    <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"/><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
-    <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
-    <a href="https://codepen.io/charlam"><img src="images/codepen.png" width="100" alt="Codepen"></a>
-  </div>
+  <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"/><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
+  <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
+  <a href="https://codepen.io/charlam"><img src="images/codepen.png" width="100" alt="Codepen"></a>
+   
 </div>
 
 As a Masters graduate in Chemical and Energy Engineering with a keen interest in problem-solving, I am excited to pursue a career in software engineering. My journey into software engineering began after undergoing a kidney transplant, which inspired me to explore new fields and broaden my skill set. To further develop my coding skills, I recently completed the Makers Academy bootcamp. I have a strong foundation in JavaScript, HTML, CSS, and React, which I gained through various courses prior to the bootcamp. I am eager to leverage my technical expertise to develop innovative solutions to intricate challenges.
@@ -16,7 +15,7 @@ As a Masters graduate in Chemical and Energy Engineering with a keen interest in
 | **Pawty Time**               | Makers academy final project, a webapp to allow pet owners to find and match your pets with other pets to allow you to organise meet ups. | MongoDB, Express, React, Node.js, Jest, Cypress |
 | **MakersBnB** | Makers Academy group project, a webapp to allow home owners to offer up there space to short term renters and users to see those spaces to rent. | Ruby, SQL, Sinatra, Bootsrap|
 | **Portfolio value checker** | A webapp to grab details and value of digital assets on the eth blockchain. | React, Node.js|
-| **Ape Jump** | A 2D platformer game   
+| **Ape Jump** | A HTML5 2D platformer game based on SuperMeatBoy | Phaser.js |  
 
 ## Work Experience
 
