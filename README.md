@@ -1,5 +1,7 @@
+
 <div align="center">
   <h1> Charles Lambert </h1>
+  <img src="images/banner.png"  alt="Banner">
   <div style="display:flex;  justify-content: center; align-content: center;">
     <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"/><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
     <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
