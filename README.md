@@ -1,9 +1,10 @@
 <div align="center">
   <h1> Charles Lambert </h1>
-  <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"/><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
-  <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
-  <a href="https://codepen.io/charlam"><img src="images/codepen.png" width="100" alt="Codepen"></a>
-   
+  <div style="display:flex;  justify-content: center; align-content: center;">
+    <a href="https://www.linkedin.com/in/charlie-lambert-91495b131"/><img src="images/linkedin.png" width="100" alt="LinkedIn"></a>
+    <a href="https://www.codewars.com/users/chazer"><img src="images/codewars.png" width="100" alt="Codewars"></a>
+    <a href="https://codepen.io/charlam"><img src="images/codepen.png" width="100" alt="Codepen"></a>
+  </div>
 </div>
 
 As a Masters graduate in Chemical and Energy Engineering with a keen interest in problem-solving, I am excited to pursue a career in software engineering. My journey into software engineering began after undergoing a kidney transplant, which inspired me to explore new fields and broaden my skill set. To further develop my coding skills, I recently completed the Makers Academy bootcamp. I have a strong foundation in JavaScript, HTML, CSS, and React, which I gained through various courses prior to the bootcamp. I am eager to leverage my technical expertise to develop innovative solutions to intricate challenges.
