@@ -6,17 +6,13 @@
 </div>
 <br>
 
-
-
 ## <a name="about-me">About me!</a>
 
-As a Masters graduate in Chemical and Energy Engineering with a keen interest in problem-solving, I am excited to pursue a career in software engineering.
+As a Chemical and Energy Engineering Masters graduate, I've gained experience in researching energy innovations with an interest in new tech along with modelling and numerical problem solving skills. After recovering from kidney failure and a transplant I worked as a self-employed trader, where I trained myself to be self-motivated and eager to learn new skills.
 
-My journey into software engineering began after undergoing a kidney transplant, which inspired me to explore new fields and broaden my skill set.
+My interest in technology and software development started during my university degree when I ventured into web design as a hobby. As a trader, I realized the need to improve speed and reduce mundane tasks, such as manually tracking data and data entry. This led me to acquire skills in JS and API use to automate tasks and improve efficiency.
 
-To further develop my coding skills, I recently completed the Makers Academy bootcamp. I have a strong foundation in JavaScript, HTML, CSS, and React, which I gained through various courses prior to the bootcamp.
-
-I am eager to leverage my technical expertise to develop innovative solutions to intricate challenges.
+Now, I am passionate about problem-solving and eager to transition into a software engineering career. I have recently graduated from Makers Academy, a highly respected bootcamp, to enhance my coding skills and build innovative solutions to complex problems. With a solid foundation in JavaScript, HTML, CSS, and React through self taught courses prior to the bootcamp, I am excited to apply my technical abilities and creativity to contribute to the software engineering industry.
 
 ## <a name="links">🌐 Links</a>
 
@@ -80,11 +76,20 @@ I am eager to leverage my technical expertise to develop innovative solutions to
 
 ## <a name="experience">💼 Work Experience</a>
 
-**NewLook Windows** (November 2018 - July 2020)  
+**NewLook Windows** (November 2018 - July 2020)
+<br>
 _Assistant manager_
 
 - Developed a data analysis spreadsheet to deliver key insights and KPI analysis, requiring strong communication and collaboration skills to effectively change the workflow of other colleagues to the new system. Utilized critical thinking and problem-solving skills, resulting in a saving of £300/month. 
 - Assembled 3 flowsheets of company processes demonstrating excellent organizational skills and attention to detail. Led the implementation of new processes, displaying strong leadership and team management skills to ensure all flows were efficient which led to a 30-minute-per-day time saving for one employee.
+
+**BPP Tech** (August 2019)
+<br>
+_Staff Engineer Intern_
+
+- As part of a team, conducted a thorough investigation into four different carbon capture methods and performed numerical analysis to determine the optimal approach for our desired purpose. Took a role in numerical analysis on the capture methods and generating engineering drawings for potential product designs, showcasing attention to detail and engineering abilities.
+
+- To develop the customer engagement aspects of the project, created informative materials on carbon dioxide and its impact on health and the economy. Demonstrating effective communication skills and ability to convey complex information to a lay audience. Throughout the project, consistently displayed strong teamwork skills and the ability to collaborate effectively in a multidisciplinary environment.
 
 
 ## <a name="education">📚 Education</a>
@@ -97,31 +102,19 @@ _Assistant manager_
 
 
 #### University of Leeds (September 2014 - July 2018)
-
-- Successfully completed a thesis on Electric Vehicle Energy Use and Air Pollution, demonstrating strong discipline and effective time management skills to meet strict supervisor deadlines. Required exceptional problem-solving abilities to develop accurate and comprehensive modeling of the study.
+- MEng/BEng in Chemical and Energy Engineering
+- Successfully completed a thesis on Electric Vehicle Energy Use and Air Pollution, demonstrating strong discipline and effective time management skills to meet strict supervisor deadlines. Required exceptional problem-solving abilities to develop accurate and comprehensive modeling of the data for the  study.
 - Achieved a 2.1 
 
+#### Leicester Grammar School (September 2012 - July 2014)
+- A levels: Maths A, Chemistry A, Physics B
 
 
 ## <a name="hobbies">🏆 Hobbies
 
 - Football
 - Badminton
+- Basically any sport
 - Web3
-- Strategy games
+- Strategy games and gaming in general
 - Sudoku
-
-<!--
-**charlie-lam/charlie-lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
